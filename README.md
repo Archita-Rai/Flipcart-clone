@@ -1,2 +1,2 @@
 # Flipcart-clone
-This is a ecommerce website inspired by flipcart
+This is a ecommerce website  clone  inspired by flipcart(using HTML and CSS)
